@@ -1,10 +1,15 @@
 # Bolero-220-PoC
 
 >**Chain:** Base
+>
 >**Date:** 2025-12-02 10:44:15 (UTC+1)
+>
 >**Protocol:** Bolero Finance Marketplace
+>
 >**Loss:** ~$221.45 USDC drained from 29 user wallets
+>
 >**Root Cause:** Missing `msg.sender` validation in `acceptOffer()`
+>
 >**Related Incident:** [0x0689a Pool Exploit](https://github.com/DK27ss/0x0689a-330K-PoC) — same attacker, ~1h30 earlier, ~$330K stolen
 >
 >| Contract | Address | Role |
