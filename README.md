@@ -251,6 +251,7 @@ Approximately 1 hour and 30 minutes before the Bolero exploit, the same attacker
 Two different protocols, two different chains, **91 minutes apart**.
 
 Attack TX Bolero : https://app.blocksec.com/phalcon/explorer/tx/base/0x886b14e21f8ea7735b64b4b75e2cf11493dad636fefb1ea5a4c7c27160df6b3b
+
 Attack TX 0x0689a : https://app.blocksec.com/phalcon/explorer/tx/eth/0x3a8bde0a17e04f6a119ae2f28e6b56ac736feb70761e2fa97cac25f816f751c2
 
 ## Identical Fingerprint
